@@ -3,9 +3,8 @@ pandas
 colorama
 joblib
 numpy
-scikit-learn
-tensorflow
-scikit-learn-intelex
-streamlit
+scikit-learn==1.3.2
+tensorflow-cpu==2.12.0
+streamlit==1.34.0
+streamlit-authenticator==0.2.2
 plotly
-streamlit-authenticator
