@@ -1,0 +1,13 @@
+cookie:
+  expiry_days: 30
+  key: qyajZtKgab
+  name: CryptoTrend
+credentials:
+  usernames:
+    zarif:
+      email: zarif@cryptotrend.app
+      failed_login_attempts: 0
+      first_name: Zarif
+      last_name: Amien
+      logged_in: false
+      password: $2b$12$Ilc4TbyORQaGIyT3tdkaZuEgrZodT/OQYl0n/Vh19QElZTua0Elxa
