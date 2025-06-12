@@ -1,0 +1,11 @@
+requests
+pandas
+colorama
+joblib
+numpy
+scikit-learn
+tensorflow
+scikit-learn-intelex
+streamlit
+plotly
+streamlit-authenticator
